@@ -3,7 +3,7 @@ import time
 from requests import Request, Session
 from requests.exceptions import ConnectionError, Timeout, TooManyRedirects
 import json
-from config import API_KEY_WAPI
+# from config import API_KEY_WAPI
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
