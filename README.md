@@ -18,6 +18,6 @@ llegara un mensaje en la mañana por ejemplo a las 6:am con el pronóstico del d
 pero se decide implementar en streamlit por varias razones:
 
 1- El servicio de mensajería no es gratuito, aunque se otorga un monto para pruebas  
-2- Mostrar la app en streamlit y desplegar en la web mediante streamlit cloud
+2- Mostrar la app en streamlit y desplegar en la web mediante streamlit cloud  
 3- Subir el proyecto a github para mostrarlo y streamlit toma el proyecto desde  
 github
