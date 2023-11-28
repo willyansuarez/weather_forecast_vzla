@@ -34,7 +34,7 @@ st.button("Ver pronóstico")
 
 # clave de api, cada clave de api es única, debe generarse su propia clave de api
 # api_key = API_KEY_WAPI
-api_key = st.secrets.API_KEY_WAPI
+api_key = st.secrets.config.API_KEY_WAPI
 
 # guardar la ciudad en la variable, podría ser una lista desplegable con
 # varias ciudades de Venezuela o del país de residencia
